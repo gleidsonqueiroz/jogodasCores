@@ -1,0 +1,40 @@
+
+*{
+    margin: 1;
+    padding: 1;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;}
+body {
+	background-color: #99a5e9;
+	margin: 100px;
+	font-family: "Montserrat", "Calibri";
+    text-align: center;
+    
+
+}
+
+#fundo{
+    width: 440px;
+    height: 200px;
+    background: #252e61;
+    border: outset 4px;
+    position: relative;
+    text-align: center;
+    margin: auto;
+    top: 100px;
+
+}
+
+footer{
+    margin-top: 200px;
+
+}
+
+.title {
+    color: rgb(218, 53, 53);
+    text-transform: lowercase;
+    font-weight: 10;
+    letter-spacing: 1px;
+    margin-bottom: 20px;
+
+}
